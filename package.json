@@ -1,0 +1,10 @@
+{
+  "name": "corona-india-scrape",
+  "version": "0.0.1",
+  "description": "it scrapes state level corona info for india from health ministy",
+  "main": "src/main.js",
+  "repository": "https://github.com/ameerthehacker/corona-india-status.git",
+  "author": "ameerthehacker",
+  "license": "MIT",
+  "private": true
+}
