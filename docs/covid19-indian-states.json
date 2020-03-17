@@ -1,13 +1,7 @@
 {
   "data": {
-    "Andhra Pradesh": {
-      "totalIndianCases": 1,
-      "totalForeignCases": 0,
-      "totalRecovered": 0,
-      "totalDeaths": 0
-    },
     "Delhi": {
-      "totalIndianCases": 7,
+      "totalIndianCases": 8,
       "totalForeignCases": 0,
       "totalRecovered": 2,
       "totalDeaths": 1
@@ -19,13 +13,13 @@
       "totalDeaths": 0
     },
     "Karnataka": {
-      "totalIndianCases": 8,
+      "totalIndianCases": 11,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1
     },
     "Kerala": {
-      "totalIndianCases": 22,
+      "totalIndianCases": 24,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0
@@ -61,8 +55,8 @@
       "totalDeaths": 0
     },
     "Telengana": {
-      "totalIndianCases": 4,
-      "totalForeignCases": 0,
+      "totalIndianCases": 3,
+      "totalForeignCases": 2,
       "totalRecovered": 1,
       "totalDeaths": 0
     },
@@ -73,15 +67,15 @@
       "totalDeaths": 0
     },
     "Union Territory of Ladakh": {
-      "totalIndianCases": 4,
+      "totalIndianCases": 6,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 12,
+      "totalIndianCases": 14,
       "totalForeignCases": 1,
-      "totalRecovered": 4,
+      "totalRecovered": 5,
       "totalDeaths": 0
     },
     "Uttarakhand": {
@@ -91,5 +85,5 @@
       "totalDeaths": 0
     }
   },
-  "lastUpdated": "Tue Mar 17 2020 06:55:07 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 17 2020 13:18:09 GMT+0000 (Coordinated Universal Time)"
 }
