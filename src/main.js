@@ -40,7 +40,10 @@ axios.get(sourceSiteURL)
   const filePath = path.resolve(process.cwd(), 'docs', 'covid19-indian-states.json');
 
   console.log(`writting JSON to ${filePath}`);
-  fs.writeFileSync(filePath, JSON.stringify(scrapedData, ' ', 2));
+  fs.writeFileSync(filePath, JSON.stringify({
+    data: scrapedData,
+    lastUpdated
+  }, ' ', 2));
   console.log('Done!');
 });
 
