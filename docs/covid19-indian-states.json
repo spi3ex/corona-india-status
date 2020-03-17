@@ -1,0 +1,92 @@
+{
+  "Andhra Pradesh": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Delhi": {
+    "totalIndianCases": 7,
+    "totalForeignCases": 0,
+    "totalRecovered": 2,
+    "totalDeaths": 1
+  },
+  "Haryana": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 14,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Karnataka": {
+    "totalIndianCases": 8,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 1
+  },
+  "Kerala": {
+    "totalIndianCases": 22,
+    "totalForeignCases": 2,
+    "totalRecovered": 3,
+    "totalDeaths": 0
+  },
+  "Maharashtra": {
+    "totalIndianCases": 36,
+    "totalForeignCases": 3,
+    "totalRecovered": 0,
+    "totalDeaths": 1
+  },
+  "Odisha": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Punjab": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Rajasthan": {
+    "totalIndianCases": 2,
+    "totalForeignCases": 2,
+    "totalRecovered": 3,
+    "totalDeaths": 0
+  },
+  "Tamil Nadu": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Telengana": {
+    "totalIndianCases": 4,
+    "totalForeignCases": 0,
+    "totalRecovered": 1,
+    "totalDeaths": 0
+  },
+  "Union Territory of Jammu and Kashmir": {
+    "totalIndianCases": 3,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Union Territory of Ladakh": {
+    "totalIndianCases": 4,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  },
+  "Uttar Pradesh": {
+    "totalIndianCases": 12,
+    "totalForeignCases": 1,
+    "totalRecovered": 4,
+    "totalDeaths": 0
+  },
+  "Uttarakhand": {
+    "totalIndianCases": 1,
+    "totalForeignCases": 0,
+    "totalRecovered": 0,
+    "totalDeaths": 0
+  }
+}
