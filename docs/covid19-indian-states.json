@@ -1,13 +1,13 @@
 {
   "data": {
     "Delhi": {
-      "totalIndianCases": 8,
-      "totalForeignCases": 0,
+      "totalIndianCases": 9,
+      "totalForeignCases": 1,
       "totalRecovered": 2,
       "totalDeaths": 1
     },
     "Haryana": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 2,
       "totalForeignCases": 14,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -19,13 +19,13 @@
       "totalDeaths": 1
     },
     "Kerala": {
-      "totalIndianCases": 24,
+      "totalIndianCases": 25,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0
     },
     "Maharashtra": {
-      "totalIndianCases": 36,
+      "totalIndianCases": 38,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 1
@@ -67,13 +67,13 @@
       "totalDeaths": 0
     },
     "Union Territory of Ladakh": {
-      "totalIndianCases": 6,
+      "totalIndianCases": 8,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 14,
+      "totalIndianCases": 15,
       "totalForeignCases": 1,
       "totalRecovered": 5,
       "totalDeaths": 0
@@ -83,7 +83,13 @@
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
+    },
+    "West Bengal": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
     }
   },
-  "lastUpdated": "Tue Mar 17 2020 21:17:52 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Wed Mar 18 2020 05:17:49 GMT+0000 (Coordinated Universal Time)"
 }
