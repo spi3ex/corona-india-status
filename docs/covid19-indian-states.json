@@ -7,7 +7,7 @@
       "totalDeaths": 1
     },
     "Haryana": {
-      "totalIndianCases": 2,
+      "totalIndianCases": 3,
       "totalForeignCases": 14,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -25,12 +25,18 @@
       "totalDeaths": 0
     },
     "Maharashtra": {
-      "totalIndianCases": 38,
+      "totalIndianCases": 39,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 1
     },
     "Odisha": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Pondicherry": {
       "totalIndianCases": 1,
       "totalForeignCases": 0,
       "totalRecovered": 0,
@@ -55,7 +61,7 @@
       "totalDeaths": 0
     },
     "Telengana": {
-      "totalIndianCases": 3,
+      "totalIndianCases": 4,
       "totalForeignCases": 2,
       "totalRecovered": 1,
       "totalDeaths": 0
@@ -91,5 +97,5 @@
       "totalDeaths": 0
     }
   },
-  "lastUpdated": "Wed Mar 18 2020 05:17:49 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Wed Mar 18 2020 13:17:39 GMT+0000 (Coordinated Universal Time)"
 }
