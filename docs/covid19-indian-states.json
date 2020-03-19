@@ -1,7 +1,7 @@
 {
   "data": {
     "Delhi": {
-      "totalIndianCases": 9,
+      "totalIndianCases": 11,
       "totalForeignCases": 1,
       "totalRecovered": 2,
       "totalDeaths": 1
@@ -13,7 +13,7 @@
       "totalDeaths": 0
     },
     "Karnataka": {
-      "totalIndianCases": 11,
+      "totalIndianCases": 14,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1
@@ -25,7 +25,7 @@
       "totalDeaths": 0
     },
     "Maharashtra": {
-      "totalIndianCases": 39,
+      "totalIndianCases": 42,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 1
@@ -49,15 +49,15 @@
       "totalDeaths": 0
     },
     "Rajasthan": {
-      "totalIndianCases": 2,
+      "totalIndianCases": 5,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0
     },
     "Tamil Nadu": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 2,
       "totalForeignCases": 0,
-      "totalRecovered": 0,
+      "totalRecovered": 1,
       "totalDeaths": 0
     },
     "Telengana": {
@@ -66,8 +66,14 @@
       "totalRecovered": 1,
       "totalDeaths": 0
     },
+    "Union Territory of Chandigarh": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
     "Union Territory of Jammu and Kashmir": {
-      "totalIndianCases": 3,
+      "totalIndianCases": 4,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -79,7 +85,7 @@
       "totalDeaths": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 15,
+      "totalIndianCases": 16,
       "totalForeignCases": 1,
       "totalRecovered": 5,
       "totalDeaths": 0
@@ -97,5 +103,5 @@
       "totalDeaths": 0
     }
   },
-  "lastUpdated": "Wed Mar 18 2020 21:17:35 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Thu Mar 19 2020 05:17:57 GMT+0000 (Coordinated Universal Time)"
 }
