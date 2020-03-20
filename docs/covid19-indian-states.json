@@ -9,11 +9,11 @@
     "Delhi": {
       "totalIndianCases": 16,
       "totalForeignCases": 1,
-      "totalRecovered": 3,
+      "totalRecovered": 5,
       "totalDeaths": 1
     },
     "Gujarat": {
-      "totalIndianCases": 2,
+      "totalIndianCases": 5,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -27,7 +27,7 @@
     "Karnataka": {
       "totalIndianCases": 15,
       "totalForeignCases": 0,
-      "totalRecovered": 0,
+      "totalRecovered": 1,
       "totalDeaths": 1
     },
     "Kerala": {
@@ -37,13 +37,13 @@
       "totalDeaths": 0
     },
     "Maharashtra": {
-      "totalIndianCases": 44,
+      "totalIndianCases": 49,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 1
     },
     "Odisha": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 2,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -61,7 +61,7 @@
       "totalDeaths": 1
     },
     "Rajasthan": {
-      "totalIndianCases": 5,
+      "totalIndianCases": 15,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0
@@ -73,7 +73,7 @@
       "totalDeaths": 0
     },
     "Telengana": {
-      "totalIndianCases": 7,
+      "totalIndianCases": 8,
       "totalForeignCases": 9,
       "totalRecovered": 1,
       "totalDeaths": 0
@@ -97,23 +97,23 @@
       "totalDeaths": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 18,
+      "totalIndianCases": 22,
       "totalForeignCases": 1,
       "totalRecovered": 9,
       "totalDeaths": 0
     },
     "Uttarakhand": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 3,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
     "West Bengal": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 2,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     }
   },
-  "lastUpdated": "Fri Mar 20 2020 05:17:38 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Fri Mar 20 2020 13:17:49 GMT+0000 (Coordinated Universal Time)"
 }
