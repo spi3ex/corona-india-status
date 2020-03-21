@@ -7,13 +7,13 @@
       "totalDeaths": 0
     },
     "Delhi": {
-      "totalIndianCases": 16,
+      "totalIndianCases": 25,
       "totalForeignCases": 1,
       "totalRecovered": 5,
       "totalDeaths": 1
     },
     "Gujarat": {
-      "totalIndianCases": 5,
+      "totalIndianCases": 7,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
@@ -24,6 +24,12 @@
       "totalRecovered": 0,
       "totalDeaths": 0
     },
+    "Himachal Pradesh": {
+      "totalIndianCases": 2,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
     "Karnataka": {
       "totalIndianCases": 15,
       "totalForeignCases": 0,
@@ -31,9 +37,15 @@
       "totalDeaths": 1
     },
     "Kerala": {
-      "totalIndianCases": 26,
-      "totalForeignCases": 2,
+      "totalIndianCases": 33,
+      "totalForeignCases": 7,
       "totalRecovered": 3,
+      "totalDeaths": 0
+    },
+    "Madhya Pradesh": {
+      "totalIndianCases": 4,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
       "totalDeaths": 0
     },
     "Maharashtra": {
@@ -74,30 +86,30 @@
     },
     "Telengana": {
       "totalIndianCases": 8,
-      "totalForeignCases": 9,
+      "totalForeignCases": 11,
       "totalRecovered": 1,
       "totalDeaths": 0
     },
-    "Union Territory of Chandigarh": {
+    "Chandigarh": {
       "totalIndianCases": 1,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
-    "Union Territory of Jammu and Kashmir": {
+    "Jammu and Kashmir": {
       "totalIndianCases": 4,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
-    "Union Territory of Ladakh": {
-      "totalIndianCases": 10,
+    "Ladakh": {
+      "totalIndianCases": 13,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 22,
+      "totalIndianCases": 23,
       "totalForeignCases": 1,
       "totalRecovered": 9,
       "totalDeaths": 0
@@ -113,13 +125,7 @@
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0
-    },
-    "191 #": {
-      "totalIndianCases": 32,
-      "totalForeignCases": 23,
-      "totalRecovered": 4,
-      "totalDeaths": null
     }
   },
-  "lastUpdated": "Fri Mar 20 2020 21:17:37 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Sat Mar 21 2020 05:17:38 GMT+0000 (Coordinated Universal Time)"
 }
