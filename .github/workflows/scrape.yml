@@ -19,6 +19,9 @@ jobs:
 
       - name: Run the scrape
         run: yarn start
+
+      - name: Run the tests
+        run: yarn test      
         
       - name: Commit files
         run: |
