@@ -7,7 +7,7 @@ function diff(prevJSON, newJSON) {
     newJSONDate.getMonth() !== oldJSONDate.getMonth() ||
     newJSONDate.getFullYear() !== oldJSONDate.getFullYear()
   ) {
-    for (state in prevJSON.data) {
+    for (const state in prevJSON.data) {
       newJSON.data[state].newCasesToday =
         newJSON.data[state].totalIndianCases +
         newJSON.data[state].totalForeignCases -
