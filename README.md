@@ -13,6 +13,7 @@ The shape of the data is
 {
   data: {
     "Andhra Pradesh": {
+      "newCasesToday": 1
       "totalIndianCases": 1,
       "totalForeignCases": 0,
       "totalRecovered": 0,
