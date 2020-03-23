@@ -8,7 +8,7 @@ function diff(prevJSON, newJSON) {
     newJSONDate.getFullYear() !== oldJSONDate.getFullYear()
   ) {
     for (const state in prevJSON.data) {
-      if(newJSON[state] && prevJSON[state]) {
+      if(newJSON.data[state] && prevJSON.data[state]) {
         newJSON.data[state].newCasesToday =
         newJSON.data[state].totalIndianCases +
         newJSON.data[state].totalForeignCases -
@@ -18,7 +18,7 @@ function diff(prevJSON, newJSON) {
     }
   } else {
     for (state in prevJSON.data) {
-      if(newJSON[state] && prevJSON[state]) {
+      if(newJSON.data[state] && prevJSON.data[state]) {
         const newCases =
         newJSON.data[state].totalIndianCases +
         newJSON.data[state].totalForeignCases -
