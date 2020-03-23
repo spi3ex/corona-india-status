@@ -31,7 +31,7 @@
     "Haryana": {
       "totalIndianCases": 12,
       "totalForeignCases": 14,
-      "totalRecovered": 0,
+      "totalRecovered": 11,
       "totalDeaths": 0,
       "newCasesToday": 5
     },
@@ -151,9 +151,9 @@
       "totalIndianCases": 7,
       "totalForeignCases": 0,
       "totalRecovered": 0,
-      "totalDeaths": 0,
+      "totalDeaths": 1,
       "newCasesToday": 0
     }
   },
-  "lastUpdated": "Mon Mar 23 2020 14:03:36 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Mon Mar 23 2020 15:03:40 GMT+0000 (Coordinated Universal Time)"
 }
