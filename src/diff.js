@@ -8,22 +8,26 @@ function diff(prevJSON, newJSON) {
     newJSONDate.getFullYear() !== oldJSONDate.getFullYear()
   ) {
     for (const state in prevJSON.data) {
-      newJSON.data[state].newCasesToday =
+      if(newJSON[state] && prevJSON[state]) {
+        newJSON.data[state].newCasesToday =
         newJSON.data[state].totalIndianCases +
         newJSON.data[state].totalForeignCases -
         (prevJSON.data[state].totalIndianCases +
           prevJSON.data[state].totalForeignCases);
+      }
     }
   } else {
     for (state in prevJSON.data) {
-      const newCases =
+      if(newJSON[state] && prevJSON[state]) {
+        const newCases =
         newJSON.data[state].totalIndianCases +
         newJSON.data[state].totalForeignCases -
         (prevJSON.data[state].totalIndianCases +
           prevJSON.data[state].totalForeignCases);
 
-      newJSON.data[state].newCasesToday =
-        (prevJSON.data[state].newCasesToday || 0) + newCases;
+        newJSON.data[state].newCasesToday =
+          (prevJSON.data[state].newCasesToday || 0) + newCases;
+      }
     }
   }
 

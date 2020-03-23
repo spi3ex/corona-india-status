@@ -18,7 +18,9 @@ axios.get(sourceSiteURL)
   const scrapedData = {};
   const lastUpdated = new Date().toString();
   
-  const rows = $('table > tbody > tr');
+  const rows = $('.content table > tbody > tr');
+
+  console.log(rows.length);
   
   for(let i = 1; i < rows.length - 1; i++) {
     const tds = $('td', rows[i]).toArray();
