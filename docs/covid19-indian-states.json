@@ -74,7 +74,8 @@
       "totalIndianCases": 1,
       "totalForeignCases": 0,
       "totalRecovered": 0,
-      "totalDeaths": 0
+      "totalDeaths": 0,
+      "newCasesToday": 0
     },
     "Odisha": {
       "totalIndianCases": 2,
@@ -161,5 +162,5 @@
       "newCasesToday": 2
     }
   },
-  "lastUpdated": "Tue Mar 24 2020 13:03:37 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 24 2020 14:03:48 GMT+0000 (Coordinated Universal Time)"
 }
