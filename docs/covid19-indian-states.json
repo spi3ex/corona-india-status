@@ -15,11 +15,11 @@
       "newCasesToday": 0
     },
     "Delhi": {
-      "totalIndianCases": 28,
+      "totalIndianCases": 30,
       "totalForeignCases": 1,
-      "totalRecovered": 5,
+      "totalRecovered": 6,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Gujarat": {
       "totalIndianCases": 29,
@@ -43,32 +43,32 @@
       "newCasesToday": 0
     },
     "Karnataka": {
-      "totalIndianCases": 33,
+      "totalIndianCases": 37,
       "totalForeignCases": 0,
       "totalRecovered": 2,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 4
     },
     "Kerala": {
-      "totalIndianCases": 60,
-      "totalForeignCases": 7,
-      "totalRecovered": 3,
+      "totalIndianCases": 87,
+      "totalForeignCases": 8,
+      "totalRecovered": 4,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 28
     },
     "Madhya Pradesh": {
-      "totalIndianCases": 6,
+      "totalIndianCases": 7,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "Maharashtra": {
-      "totalIndianCases": 71,
+      "totalIndianCases": 84,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 2,
-      "newCasesToday": 0
+      "newCasesToday": 13
     },
     "Odisha": {
       "totalIndianCases": 2,
@@ -92,18 +92,18 @@
       "newCasesToday": 0
     },
     "Rajasthan": {
-      "totalIndianCases": 26,
+      "totalIndianCases": 31,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 5
     },
     "Tamil Nadu": {
-      "totalIndianCases": 7,
+      "totalIndianCases": 10,
       "totalForeignCases": 2,
       "totalRecovered": 1,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 3
     },
     "Telengana": {
       "totalIndianCases": 22,
@@ -134,11 +134,11 @@
       "newCasesToday": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 30,
+      "totalIndianCases": 32,
       "totalForeignCases": 1,
       "totalRecovered": 9,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Uttarakhand": {
       "totalIndianCases": 3,
@@ -155,5 +155,5 @@
       "newCasesToday": 0
     }
   },
-  "lastUpdated": "Tue Mar 24 2020 03:03:21 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 24 2020 04:03:45 GMT+0000 (Coordinated Universal Time)"
 }
