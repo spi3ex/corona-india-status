@@ -18,7 +18,7 @@
       "totalIndianCases": 29,
       "totalForeignCases": 1,
       "totalRecovered": 6,
-      "totalDeaths": 1,
+      "totalDeaths": 2,
       "newCasesToday": 1
     },
     "Gujarat": {
@@ -162,5 +162,5 @@
       "newCasesToday": 2
     }
   },
-  "lastUpdated": "Tue Mar 24 2020 14:03:48 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 24 2020 15:03:49 GMT+0000 (Coordinated Universal Time)"
 }
