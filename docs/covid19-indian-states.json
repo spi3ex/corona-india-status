@@ -26,28 +26,28 @@
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 11
+      "newCasesToday": 0
     },
     "Haryana": {
       "totalIndianCases": 12,
       "totalForeignCases": 14,
       "totalRecovered": 11,
       "totalDeaths": 0,
-      "newCasesToday": 5
+      "newCasesToday": 0
     },
     "Himachal Pradesh": {
       "totalIndianCases": 3,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 1
+      "newCasesToday": 0
     },
     "Karnataka": {
       "totalIndianCases": 33,
       "totalForeignCases": 0,
       "totalRecovered": 2,
       "totalDeaths": 1,
-      "newCasesToday": 7
+      "newCasesToday": 0
     },
     "Kerala": {
       "totalIndianCases": 60,
@@ -68,7 +68,7 @@
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 2,
-      "newCasesToday": 7
+      "newCasesToday": 0
     },
     "Odisha": {
       "totalIndianCases": 2,
@@ -96,7 +96,7 @@
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0,
-      "newCasesToday": 1
+      "newCasesToday": 0
     },
     "Tamil Nadu": {
       "totalIndianCases": 7,
@@ -110,14 +110,14 @@
       "totalForeignCases": 10,
       "totalRecovered": 1,
       "totalDeaths": 0,
-      "newCasesToday": 6
+      "newCasesToday": 0
     },
     "Chandigarh": {
       "totalIndianCases": 6,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 1
+      "newCasesToday": 0
     },
     "Jammu and Kashmir": {
       "totalIndianCases": 4,
@@ -138,7 +138,7 @@
       "totalForeignCases": 1,
       "totalRecovered": 9,
       "totalDeaths": 0,
-      "newCasesToday": 3
+      "newCasesToday": 0
     },
     "Uttarakhand": {
       "totalIndianCases": 3,
@@ -155,5 +155,5 @@
       "newCasesToday": 0
     }
   },
-  "lastUpdated": "Mon Mar 23 2020 23:03:31 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 24 2020 00:07:18 GMT+0000 (Coordinated Universal Time)"
 }
