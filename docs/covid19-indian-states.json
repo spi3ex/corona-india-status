@@ -1,11 +1,11 @@
 {
   "data": {
     "Bihar": {
-      "totalIndianCases": 2,
+      "totalIndianCases": 3,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "Chhattisgarh": {
       "totalIndianCases": 1,
@@ -15,25 +15,25 @@
       "newCasesToday": 0
     },
     "Delhi": {
-      "totalIndianCases": 30,
+      "totalIndianCases": 29,
       "totalForeignCases": 1,
       "totalRecovered": 6,
       "totalDeaths": 1,
-      "newCasesToday": 2
+      "newCasesToday": 1
     },
     "Gujarat": {
-      "totalIndianCases": 29,
-      "totalForeignCases": 0,
+      "totalIndianCases": 32,
+      "totalForeignCases": 1,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 4
     },
     "Haryana": {
-      "totalIndianCases": 12,
+      "totalIndianCases": 14,
       "totalForeignCases": 14,
       "totalRecovered": 11,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Himachal Pradesh": {
       "totalIndianCases": 3,
@@ -45,7 +45,7 @@
     "Karnataka": {
       "totalIndianCases": 37,
       "totalForeignCases": 0,
-      "totalRecovered": 2,
+      "totalRecovered": 3,
       "totalDeaths": 1,
       "newCasesToday": 4
     },
@@ -64,11 +64,17 @@
       "newCasesToday": 1
     },
     "Maharashtra": {
-      "totalIndianCases": 84,
+      "totalIndianCases": 86,
       "totalForeignCases": 3,
       "totalRecovered": 0,
       "totalDeaths": 2,
-      "newCasesToday": 13
+      "newCasesToday": 15
+    },
+    "Manipur": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
     },
     "Odisha": {
       "totalIndianCases": 2,
@@ -85,39 +91,39 @@
       "newCasesToday": 0
     },
     "Punjab": {
-      "totalIndianCases": 21,
+      "totalIndianCases": 29,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 8
     },
     "Rajasthan": {
-      "totalIndianCases": 31,
+      "totalIndianCases": 30,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0,
-      "newCasesToday": 5
+      "newCasesToday": 4
     },
     "Tamil Nadu": {
-      "totalIndianCases": 10,
+      "totalIndianCases": 13,
       "totalForeignCases": 2,
+      "totalRecovered": 1,
+      "totalDeaths": 0,
+      "newCasesToday": 6
+    },
+    "Telengana": {
+      "totalIndianCases": 25,
+      "totalForeignCases": 10,
       "totalRecovered": 1,
       "totalDeaths": 0,
       "newCasesToday": 3
     },
-    "Telengana": {
-      "totalIndianCases": 22,
-      "totalForeignCases": 10,
-      "totalRecovered": 1,
-      "totalDeaths": 0,
-      "newCasesToday": 0
-    },
     "Chandigarh": {
-      "totalIndianCases": 6,
+      "totalIndianCases": 7,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "Jammu and Kashmir": {
       "totalIndianCases": 4,
@@ -136,24 +142,24 @@
     "Uttar Pradesh": {
       "totalIndianCases": 32,
       "totalForeignCases": 1,
-      "totalRecovered": 9,
+      "totalRecovered": 11,
       "totalDeaths": 0,
       "newCasesToday": 2
     },
     "Uttarakhand": {
       "totalIndianCases": 3,
-      "totalForeignCases": 0,
+      "totalForeignCases": 1,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "West Bengal": {
-      "totalIndianCases": 7,
+      "totalIndianCases": 9,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 2
     }
   },
-  "lastUpdated": "Tue Mar 24 2020 12:04:32 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Tue Mar 24 2020 13:03:37 GMT+0000 (Coordinated Universal Time)"
 }
