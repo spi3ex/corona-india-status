@@ -1,11 +1,11 @@
 {
   "data": {
     "Bihar": {
-      "totalIndianCases": 3,
+      "totalIndianCases": 4,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "Chhattisgarh": {
       "totalIndianCases": 1,
@@ -22,11 +22,11 @@
       "newCasesToday": 1
     },
     "Gujarat": {
-      "totalIndianCases": 32,
+      "totalIndianCases": 37,
       "totalForeignCases": 1,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 5
     },
     "Haryana": {
       "totalIndianCases": 14,
@@ -57,18 +57,18 @@
       "newCasesToday": 14
     },
     "Madhya Pradesh": {
-      "totalIndianCases": 9,
+      "totalIndianCases": 14,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 2
+      "newCasesToday": 7
     },
     "Maharashtra": {
-      "totalIndianCases": 98,
+      "totalIndianCases": 125,
       "totalForeignCases": 3,
-      "totalRecovered": 0,
-      "totalDeaths": 2,
-      "newCasesToday": 12
+      "totalRecovered": 1,
+      "totalDeaths": 3,
+      "newCasesToday": 39
     },
     "Manipur": {
       "totalIndianCases": 1,
@@ -106,11 +106,11 @@
       "newCasesToday": 0
     },
     "Rajasthan": {
-      "totalIndianCases": 30,
+      "totalIndianCases": 34,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 4
     },
     "Tamil Nadu": {
       "totalIndianCases": 16,
@@ -148,11 +148,11 @@
       "newCasesToday": 0
     },
     "Uttar Pradesh": {
-      "totalIndianCases": 34,
+      "totalIndianCases": 36,
       "totalForeignCases": 1,
       "totalRecovered": 11,
       "totalDeaths": 0,
-      "newCasesToday": 2
+      "newCasesToday": 4
     },
     "Uttarakhand": {
       "totalIndianCases": 3,
@@ -169,5 +169,5 @@
       "newCasesToday": 0
     }
   },
-  "lastUpdated": "Wed Mar 25 2020 13:03:45 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Wed Mar 25 2020 14:03:51 GMT+0000 (Coordinated Universal Time)"
 }
