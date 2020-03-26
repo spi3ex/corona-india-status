@@ -67,7 +67,7 @@
       "totalIndianCases": 13,
       "totalForeignCases": 0,
       "totalRecovered": 1,
-      "totalDeaths": 0,
+      "totalDeaths": 1,
       "newCasesToday": 6
     },
     "Karnataka": {
@@ -190,5 +190,5 @@
       "newCasesToday": 0
     }
   },
-  "lastUpdated": "Thu Mar 26 2020 16:05:09 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Thu Mar 26 2020 17:03:46 GMT+0000 (Coordinated Universal Time)"
 }
