@@ -1,39 +1,45 @@
 {
   "data": {
     "Bihar": {
-      "totalIndianCases": 4,
+      "totalIndianCases": 3,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": -1
     },
     "Chhattisgarh": {
-      "totalIndianCases": 1,
+      "totalIndianCases": 3,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Delhi": {
-      "totalIndianCases": 30,
+      "totalIndianCases": 34,
       "totalForeignCases": 1,
       "totalRecovered": 6,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 4
+    },
+    "Goa": {
+      "totalIndianCases": 33,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
     },
     "Gujarat": {
       "totalIndianCases": 37,
       "totalForeignCases": 1,
       "totalRecovered": 0,
-      "totalDeaths": 1,
+      "totalDeaths": 2,
       "newCasesToday": 0
     },
     "Haryana": {
-      "totalIndianCases": 14,
+      "totalIndianCases": 16,
       "totalForeignCases": 14,
       "totalRecovered": 11,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Himachal Pradesh": {
       "totalIndianCases": 3,
@@ -50,25 +56,25 @@
       "newCasesToday": 0
     },
     "Kerala": {
-      "totalIndianCases": 101,
+      "totalIndianCases": 110,
       "totalForeignCases": 8,
       "totalRecovered": 4,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 9
     },
     "Madhya Pradesh": {
-      "totalIndianCases": 14,
+      "totalIndianCases": 15,
       "totalForeignCases": 0,
       "totalRecovered": 0,
-      "totalDeaths": 0,
-      "newCasesToday": 0
+      "totalDeaths": 1,
+      "newCasesToday": 1
     },
     "Maharashtra": {
-      "totalIndianCases": 125,
+      "totalIndianCases": 121,
       "totalForeignCases": 3,
       "totalRecovered": 1,
       "totalDeaths": 3,
-      "newCasesToday": 0
+      "newCasesToday": -4
     },
     "Manipur": {
       "totalIndianCases": 1,
@@ -99,32 +105,32 @@
       "newCasesToday": 0
     },
     "Punjab": {
-      "totalIndianCases": 29,
+      "totalIndianCases": 33,
       "totalForeignCases": 0,
       "totalRecovered": 0,
       "totalDeaths": 1,
-      "newCasesToday": 0
+      "newCasesToday": 4
     },
     "Rajasthan": {
-      "totalIndianCases": 34,
+      "totalIndianCases": 36,
       "totalForeignCases": 2,
       "totalRecovered": 3,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 2
     },
     "Tamil Nadu": {
-      "totalIndianCases": 16,
-      "totalForeignCases": 2,
+      "totalIndianCases": 20,
+      "totalForeignCases": 6,
       "totalRecovered": 1,
-      "totalDeaths": 0,
-      "newCasesToday": 0
+      "totalDeaths": 1,
+      "newCasesToday": 8
     },
     "Telengana": {
-      "totalIndianCases": 25,
+      "totalIndianCases": 31,
       "totalForeignCases": 10,
       "totalRecovered": 1,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 6
     },
     "Chandigarh": {
       "totalIndianCases": 7,
@@ -134,11 +140,11 @@
       "newCasesToday": 0
     },
     "Jammu and Kashmir": {
-      "totalIndianCases": 7,
+      "totalIndianCases": 11,
       "totalForeignCases": 0,
       "totalRecovered": 1,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 4
     },
     "Ladakh": {
       "totalIndianCases": 13,
@@ -155,11 +161,11 @@
       "newCasesToday": 0
     },
     "Uttarakhand": {
-      "totalIndianCases": 3,
+      "totalIndianCases": 4,
       "totalForeignCases": 1,
       "totalRecovered": 0,
       "totalDeaths": 0,
-      "newCasesToday": 0
+      "newCasesToday": 1
     },
     "West Bengal": {
       "totalIndianCases": 9,
@@ -167,7 +173,13 @@
       "totalRecovered": 0,
       "totalDeaths": 1,
       "newCasesToday": 0
+    },
+    "602#": {
+      "totalIndianCases": 47,
+      "totalForeignCases": 43,
+      "totalRecovered": 13,
+      "totalDeaths": null
     }
   },
-  "lastUpdated": "Thu Mar 26 2020 04:03:58 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Thu Mar 26 2020 05:03:26 GMT+0000 (Coordinated Universal Time)"
 }
