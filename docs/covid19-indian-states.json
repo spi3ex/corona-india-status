@@ -186,8 +186,9 @@
       "totalIndianCases": 47,
       "totalForeignCases": 67,
       "totalRecovered": 17,
-      "totalDeaths": null
+      "totalDeaths": null,
+      "newCasesToday": 0
     }
   },
-  "lastUpdated": "Fri Mar 27 2020 04:04:02 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Fri Mar 27 2020 05:03:36 GMT+0000 (Coordinated Universal Time)"
 }
