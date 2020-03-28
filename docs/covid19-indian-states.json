@@ -1,4 +1,167 @@
 {
-  "data": {},
-  "lastUpdated": "Sat Mar 28 2020 04:03:42 GMT+0000 (Coordinated Universal Time)"
+  "data": {
+    "Andhra Pradesh": {
+      "totalIndianCases": 14,
+      "totalForeignCases": 0,
+      "totalRecovered": 1,
+      "totalDeaths": 0
+    },
+    "Bihar": {
+      "totalIndianCases": 9,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 1
+    },
+    "Chandigarh": {
+      "totalIndianCases": 7,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Chhattisgarh": {
+      "totalIndianCases": 6,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Delhi": {
+      "totalIndianCases": 38,
+      "totalForeignCases": 1,
+      "totalRecovered": 6,
+      "totalDeaths": 1
+    },
+    "Goa": {
+      "totalIndianCases": 3,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Gujarat": {
+      "totalIndianCases": 44,
+      "totalForeignCases": 1,
+      "totalRecovered": 0,
+      "totalDeaths": 3
+    },
+    "Haryana": {
+      "totalIndianCases": 19,
+      "totalForeignCases": 14,
+      "totalRecovered": 11,
+      "totalDeaths": 0
+    },
+    "Himachal Pradesh": {
+      "totalIndianCases": 3,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 1
+    },
+    "Jammu and Kashmir": {
+      "totalIndianCases": 18,
+      "totalForeignCases": 0,
+      "totalRecovered": 1,
+      "totalDeaths": 1
+    },
+    "Karnataka": {
+      "totalIndianCases": 55,
+      "totalForeignCases": 0,
+      "totalRecovered": 3,
+      "totalDeaths": 2
+    },
+    "Kerala": {
+      "totalIndianCases": 165,
+      "totalForeignCases": 8,
+      "totalRecovered": 11,
+      "totalDeaths": 0
+    },
+    "Ladakh": {
+      "totalIndianCases": 13,
+      "totalForeignCases": 0,
+      "totalRecovered": 3,
+      "totalDeaths": 0
+    },
+    "Madhya Pradesh": {
+      "totalIndianCases": 30,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 2
+    },
+    "Maharashtra": {
+      "totalIndianCases": 177,
+      "totalForeignCases": 3,
+      "totalRecovered": 25,
+      "totalDeaths": 5
+    },
+    "Manipur": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Mizoram": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Odisha": {
+      "totalIndianCases": 3,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Puducherry": {
+      "totalIndianCases": 1,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Punjab": {
+      "totalIndianCases": 38,
+      "totalForeignCases": 0,
+      "totalRecovered": 1,
+      "totalDeaths": 1
+    },
+    "Rajasthan": {
+      "totalIndianCases": 46,
+      "totalForeignCases": 2,
+      "totalRecovered": 3,
+      "totalDeaths": 0
+    },
+    "Tamil Nadu": {
+      "totalIndianCases": 32,
+      "totalForeignCases": 6,
+      "totalRecovered": 2,
+      "totalDeaths": 1
+    },
+    "Telengana": {
+      "totalIndianCases": 38,
+      "totalForeignCases": 10,
+      "totalRecovered": 1,
+      "totalDeaths": 0
+    },
+    "Uttarakhand": {
+      "totalIndianCases": 4,
+      "totalForeignCases": 1,
+      "totalRecovered": 0,
+      "totalDeaths": 0
+    },
+    "Uttar Pradesh": {
+      "totalIndianCases": 44,
+      "totalForeignCases": 1,
+      "totalRecovered": 11,
+      "totalDeaths": 0
+    },
+    "West Bengal": {
+      "totalIndianCases": 15,
+      "totalForeignCases": 0,
+      "totalRecovered": 0,
+      "totalDeaths": 1
+    },
+    "826#": {
+      "totalIndianCases": 47,
+      "totalForeignCases": 79,
+      "totalRecovered": 19,
+      "totalDeaths": null
+    }
+  },
+  "lastUpdated": "Sat Mar 28 2020 10:08:44 GMT+0530 (India Standard Time)"
 }

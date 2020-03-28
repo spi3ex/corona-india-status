@@ -20,8 +20,6 @@ axios.get(sourceSiteURL)
   
   const rows = $('.content table > tbody > tr');
 
-  console.log(rows.length);
-  
   for(let i = 1; i < rows.length - 1; i++) {
     const tds = $('td', rows[i]).toArray();
 
