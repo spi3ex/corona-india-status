@@ -4,7 +4,8 @@
       "totalIndianCases": 6,
       "totalForeignCases": 0,
       "totalRecovered": 0,
-      "totalDeaths": 0
+      "totalDeaths": 0,
+      "newCasesToday": 0
     },
     "Bihar": {
       "totalIndianCases": 9,
@@ -185,8 +186,9 @@
       "totalIndianCases": 47,
       "totalForeignCases": 80,
       "totalRecovered": 19,
-      "totalDeaths": null
+      "totalDeaths": null,
+      "newCasesToday": 0
     }
   },
-  "lastUpdated": "Sat Mar 28 2020 13:03:45 GMT+0000 (Coordinated Universal Time)"
+  "lastUpdated": "Sat Mar 28 2020 14:03:26 GMT+0000 (Coordinated Universal Time)"
 }
