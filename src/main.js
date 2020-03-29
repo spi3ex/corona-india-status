@@ -26,9 +26,9 @@ axios.get(sourceSiteURL)
     // lil clensing
     const state = $(tds[1]).text().trim().replace(/'/g, '');
     const totalIndianCases = parseInt($(tds[2]).text());
-    const totalForeignCases = parseInt($(tds[3]).text());
-    const totalRecovered = parseInt($(tds[4]).text());
-    const totalDeaths = parseInt($(tds[5]).text());
+    const totalForeignCases = 0;
+    const totalRecovered = parseInt($(tds[3]).text());
+    const totalDeaths = parseInt($(tds[4]).text());
 
     scrapedData[state] = {
       totalIndianCases,
